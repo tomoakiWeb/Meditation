@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_select_level"
+        android:icon="@drawable/ic_baseline_network_check_24"
+        android:title="@string/bottom_navi_lavel" />
+    <item
+        android:id="@+id/item_select_theme"
+        android:icon="@drawable/ic_baseline_landscape_24"
+        android:title="@string/bottom_navi_share" />
+    <item
+        android:id="@+id/item_select_time"
+        android:icon="@drawable/ic_baseline_timer_24"
+        android:title="@string/bottom_navi_theme" />
+</menu>
